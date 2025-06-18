@@ -11,5 +11,5 @@ export default defineConfig({
       config: './tailwind.config.js',
     }),
   ],
-  base: '/portfolio',
+  base: '/',
 })
