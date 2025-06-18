@@ -7,7 +7,9 @@ import About from './components/sections/About'
 import './index.css'
 import { useState } from 'react'
 import Project from './components/sections/Project'
-import Contact from './components/sections/Contact'
+import SocialLinks from './components/sections/SocialLinks'
+import 'bootstrap-icons/font/bootstrap-icons.css';
+// import Contact from './components/sections/Contact'
 
 function App() {
   const [isloading, setisLoading] = useState(false)
@@ -23,7 +25,8 @@ function App() {
         <Home />
         <About /> 
         <Project />
-        <Contact />
+        {/* <Contact /> */}
+        <SocialLinks />
       </div>
     </>
   )
