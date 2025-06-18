@@ -10,13 +10,13 @@ const SocialLinks = () => {
         <h2 className='text-center font-bold mt-4'>Got a project we can work on together?</h2>
         <div className='my-10 grid grid-cols-3 md:grid-cols-3 gap-6 pl-10'>
           <div>
-             <a className="bi bi-linkedin text-6xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent" href='https://github.com/Azeez-05'></a>
+             <a className="bi bi-github text-6xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent" href='https://github.com/Azeez-05'></a>
           </div>
           <div> 
             <a className="bi bi-envelope-at text-6xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent" href='https://mailto:hammedabdulazeez05@gmail.com'></a>
           </div>
           <div> 
-            <a className="bi bi-github text-6xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent" href='https://www.linkedin.com/in/abdulazeez-hammed'></a>
+            <a className="bi bi-linkedin text-6xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent" href='https://www.linkedin.com/in/abdulazeez-hammed'></a>
           </div>
         </div>
          <h2 className='text-center font-extralight mt-5 '>Let's Create Something Amazing</h2>
