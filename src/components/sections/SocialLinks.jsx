@@ -8,7 +8,7 @@ const SocialLinks = () => {
       <div className="w-170  mx-auto px-4">
         <h2 className="text-5xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent">Get In Touch</h2>
         <h2 className='text-center font-bold mt-4'>Got a project we can work on together?</h2>
-        <div className='my-10 grid sm:grid-cols-3 md:grid-cols-5 gap-6 pl-10'>
+        <div className='my-10 grid grid-cols-3 md:grid-cols-5 gap-6 pl-10'>
           <div>
              <a className="bi bi-linkedin text-6xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent" href='https://www.linkedin.com/in/abdulazeez-hammed'></a>
           </div>
