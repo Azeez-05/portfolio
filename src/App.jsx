@@ -9,6 +9,7 @@ import { useState } from 'react'
 import Project from './components/sections/Project'
 import SocialLinks from './components/sections/SocialLinks'
 import 'bootstrap-icons/font/bootstrap-icons.css';
+import { Analytics } from '@vercel/analytics/react'
 // import Contact from './components/sections/Contact'
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
         <Project />
         {/* <Contact /> */}
         <SocialLinks />
+        <Analytics />
       </div>
     </>
   )

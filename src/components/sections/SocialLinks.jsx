@@ -4,7 +4,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 const SocialLinks = () => {
   return (
-    <section id='#contact' className='min-h-screen flex items-center justify-center py-20 relative '>
+    <section id='#social' className='min-h-screen flex items-center justify-center py-20 relative '>
       <div className="w-170  mx-auto px-4">
         <h2 className="text-5xl font-bold mb-4 bg-gradient-to-r from-blue-500 to-violet-600 bg-clip-text text-center text-transparent">Get In Touch</h2>
         <h2 className='text-center font-bold mt-4'>Got a project we can work on together?</h2>
